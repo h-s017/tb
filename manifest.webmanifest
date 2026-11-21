@@ -1,6 +1,6 @@
 {
-  "name": "舞台穩拍｜長號每日練習",
-  "short_name": "舞台穩拍",
+  "name": "Trombone Practice｜長號練習",
+  "short_name": "Trombone Practice",
   "description": "長號日常練習、分段計時、完成勾選、錄音回放及歷史紀錄",
   "start_url": "./index.html",
   "scope": "./",
