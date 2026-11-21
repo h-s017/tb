@@ -1,4 +1,4 @@
-# 舞台穩拍｜Trombone Daily Practice
+# Trombone Practice｜長號練習
 
 青少年長號日常練習 PWA。每日 12 項練習、分段計時、完成勾選、節拍器、錄音回放與練習歷史。
 
